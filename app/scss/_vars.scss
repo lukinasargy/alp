@@ -1,0 +1,14 @@
+$default-font: "Montserrat", sans-serif;
+$second-font: "Roboto", sans-serif;
+$third-font: "Fira Sans", sans-serif;
+$color-one: #6e819e; //blue
+$color-two: #f2708f; //pink
+$color-three: #faf3f5; //light pink 
+
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 30px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1140px);
+
+$gutter: $grid-gutter-width;
